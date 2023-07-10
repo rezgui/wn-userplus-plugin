@@ -45,3 +45,12 @@ state:
     tab: winter.userplus::lang.tab.profile
     span: right
     dependsOn: country
+
+url:
+    label: winter.userplus::lang.user.url
+    tab: winter.userplus::lang.tab.profile
+    span: left
+
+note:
+    label: winter.userplus::lang.user.note
+    tab: winter.userplus::lang.tab.profile

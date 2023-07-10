@@ -13,5 +13,7 @@
         'city' => '城市',
         'zip' => '邮政编码',
         'street_addr' => '地址',
+        'url' => 'Website',
+        'note' => 'Note',
     ],
 ];

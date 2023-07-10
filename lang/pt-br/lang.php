@@ -15,5 +15,7 @@ return [
         'city' => 'Cidade',
         'zip' => 'Cep',
         'street_addr' => 'Endereço',
+        'url' => 'Website',
+        'note' => 'Note',
     ],
 ];

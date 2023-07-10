@@ -15,5 +15,7 @@ return [
         'city' => '城市',
         'zip' => '郵遞區號',
         'street_addr' => '地址',
+        'url' => 'Website',
+        'note' => 'Note',
     ],
 ];

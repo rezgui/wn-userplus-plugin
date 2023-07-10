@@ -12,5 +12,7 @@ return [
         'city' => 'شهر',
         'zip' => 'کد پستی',
         'street_addr' => 'آدرس',
+        'url' => 'Website',
+        'note' => 'Note',
     ],
 ];

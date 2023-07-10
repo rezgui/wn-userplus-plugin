@@ -15,5 +15,7 @@ return [
         'city' => 'Mesto',
         'zip' => 'Pošta',
         'street_addr' => 'Naslov',
+        'url' => 'Website',
+        'note' => 'Note',
     ],
 ];

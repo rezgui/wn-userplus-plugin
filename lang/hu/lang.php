@@ -15,5 +15,7 @@ return [
         'city' => 'Város',
         'zip' => 'Irszám.',
         'street_addr' => 'Postacím',
+        'url' => 'Website',
+        'note' => 'Note',
     ],
 ];
