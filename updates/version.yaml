@@ -9,3 +9,9 @@
 "1.0.4": Add various languages and minor bug fixes.
 "1.1.0": Compatibility with Notify plugin.
 "2.0.0": Winter.UserPlus Rebranding
+"2.0.1":
+    - Add Arabic Language and update some languages..
+    - Add mobile url user profile field.
+    - v2.0.1/user_add_url_field.php   
+    - Add mobile note user profile field.
+    - v2.0.1/user_add_note_field.php 
