@@ -58,7 +58,9 @@ class Plugin extends PluginBase
                 'company',
                 'street_addr',
                 'city',
-                'zip'
+                'zip',
+                'url',
+                'note'
             ]);
 
             $model->implement[] = 'Winter.Location.Behaviors.LocationModel';
