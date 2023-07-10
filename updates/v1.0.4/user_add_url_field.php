@@ -3,7 +3,7 @@
 use Schema;
 use Winter\Storm\Database\Updates\Migration;
 
-class UserAddMobileField extends Migration
+class UserAddUrlField extends Migration
 {
     public function up()
     {
